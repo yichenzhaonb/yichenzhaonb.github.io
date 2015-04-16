@@ -74,11 +74,11 @@ h1, h2, h3, h4, h5, h6 {
 .button {
     width: 180px;
     height: 54px;
-    border: 2px solid #3dc9b3;
+    border: 2px solid #fff;
     -moz-border-radius: 3px;
     -webkit-border-radius: 3px;
     border-radius: 3px;
-    color: #3dc9b3; 
+    color: #fff; 
     line-height: 54px;
     text-align: center;
     padding:0;
@@ -91,8 +91,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 .button:hover {
     color:#fff;
-    border:2px solid #3dc9b3;
-    background-color:#3dc9b3;
+    border:2px solid #fff;
+    background-color:#316398;
 }
 .navbar-default {
     transition: background-color .3s ease;
@@ -178,7 +178,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(../img/header-bg.jpg);
+    background-image: url(../img/front-page-bg.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
