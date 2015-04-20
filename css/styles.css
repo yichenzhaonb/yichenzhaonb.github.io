@@ -14,7 +14,7 @@ body {
     color: #777;
 }
 .text-primary {
-    color: #3dc9b3;
+    color: #316398;
 }
 p {
     font-size: 14px;
@@ -27,7 +27,7 @@ a, a:hover, a:focus, a:active, a.active {
     outline: 0;
 }
 a {
-    color: #3dc9b3;
+    color: #316398;
     border-bottom: 1px dotted #666665;
 }
 a:hover, a:focus, a:active, a.active {
@@ -48,12 +48,12 @@ h1, h2, h3, h4, h5, h6 {
     background-color: #222;
 }
 .btn-primary {
-    border-color: #3dc9b3;
+    border-color: #316398;
     text-transform: uppercase;
     font-family: Montserrat, "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: 700;
     color: #fff;
-    background-color: #3dc9b3;
+    background-color: #316398;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open .dropdown-toggle.btn-primary {
     border-color: #f6bf01;
@@ -64,11 +64,11 @@ h1, h2, h3, h4, h5, h6 {
     background-image: none;
 }
 .btn-primary.disabled, .btn-primary[disabled], fieldset[disabled] .btn-primary, .btn-primary.disabled:hover, .btn-primary[disabled]:hover, fieldset[disabled] .btn-primary:hover, .btn-primary.disabled:focus, .btn-primary[disabled]:focus, fieldset[disabled] .btn-primary:focus, .btn-primary.disabled:active, .btn-primary[disabled]:active, fieldset[disabled] .btn-primary:active, .btn-primary.disabled.active, .btn-primary[disabled].active, fieldset[disabled] .btn-primary.active {
-    border-color: #3dc9b3;
-    background-color: #3dc9b3;
+    border-color: #316398;
+    background-color: #316398;
 }
 .btn-primary .badge {
-    color: #3dc9b3;
+    color: #316398;
     background-color: #fff;
 }
 .button {
@@ -110,14 +110,14 @@ h1, h2, h3, h4, h5, h6 {
     color: #fff;
 }
 .navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus, .navbar-default .navbar-brand:active {
-    color: #3dc9b3;
+    color: #316398;
 }
 .navbar-default .navbar-toggle {
-    border-color: #3dc9b3;
-    background-color: #3dc9b3;
+    border-color: #316398;
+    background-color: #316398;
 }
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
-    background-color: #3dc9b3;
+    background-color: #316398;
 }
 .navbar-default .nav li a p{
     text-transform: uppercase;
@@ -130,12 +130,12 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-default .nav li a:hover p{
     outline: 0;
     color: #fff;
-    border-bottom: 1px solid #3dc9b3;
+    border-bottom: 1px solid #316398;
     opacity: 1;
 }
 .navbar-default .nav li a:focus {
     outline: 0;
-    color: #3dc9b3;
+    color: #316398;
 }
 .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
     color: #fff;
@@ -159,7 +159,7 @@ h1, h2, h3, h4, h5, h6 {
 .navbar-default.navbar-shrink .navbar-nav>.active>a:hover,
 .navbar-default.navbar-shrink .navbar-nav li a:hover p,
 .navbar-default.navbar-shrink .navbar-nav>.active>a:hover p {
-    color: #3dc9b3;
+    color: #316398;
     border-bottom: none;
     background-color: transparent;
 }
@@ -374,7 +374,7 @@ section h3.section-subheading {
     border-radius: 100%;
     text-align: center;
     color: #fff;
-    background-color: #3dc9b3;
+    background-color: #316398;
 }
 .timeline>li .timeline-image h4 {
     margin-top: 12px;
@@ -540,7 +540,7 @@ ul.social-buttons li a {
     transition: all .3s;
 }
 ul.social-buttons li a:hover, ul.social-buttons li a:focus, ul.social-buttons li a:active {
-    background-color: #3dc9b3;
+    background-color: #316398;
 }
 .btn:focus, .btn:active, .btn.active, .btn:active:focus {
     outline: 0;
@@ -612,11 +612,11 @@ ul.social-buttons li a:hover, ul.social-buttons li a:focus, ul.social-buttons li
 }
 ::-moz-selection {
     text-shadow: none;
-    background: #3dc9b3;
+    background: #316398;
 }
 ::selection {
     text-shadow: none;
-    background: #3dc9b3;
+    background: #316398;
 }
 img::selection {
     background: 0 0;
@@ -625,7 +625,7 @@ img::-moz-selection {
     background: 0 0;
 }
 body {
-    webkit-tap-highlight-color: #3dc9b3;
+    webkit-tap-highlight-color: #316398;
 }
 .section-padding {
     padding: 90px 0 100px
@@ -643,7 +643,7 @@ body {
     -moz-border-radius: 50%;
     -webkit-border-radius: 50%;
     -o-border-radius: 50%;
-    background: rgba(61, 201, 179, 0.5);
+    background: #316398;
     display: block;
     margin: 0 auto;
     color: #fff;
@@ -659,19 +659,19 @@ body {
 }
 .up-btn:hover, up-btn:focus {
     color: #fff;
-    background: rgba(61, 201, 179, 1);
+    background: #316398;
 }
 .light-box {
     background-color: #fff;
-    -webkit-box-shadow: 0px 3px 0px 0px #f0f2f4;
-    -moz-box-shadow: 0px 3px 0px 0px #f0f2f4;
-    box-shadow: 0px 1px 0px 0px #f0f2f4;
+    -webkit-box-shadow: 0px 3px 0px 0px #316398;
+    -moz-box-shadow: 0px 3px 0px 0px #316398;
+    box-shadow: 0px 1px 0px 0px #316398;
     padding: 20px 0;
 }
 .light-box:hover, .light-box:focus {
-    -webkit-box-shadow: 0px 3px 0px 0px #3dc9b3;
-    -moz-box-shadow: 0px 3px 0px 0px #3dc9b3;
-    box-shadow: 0px 3px 0px 0px #3dc9b3;
+    -webkit-box-shadow: 0px 3px 0px 0px #316398;
+    -moz-box-shadow: 0px 3px 0px 0px #316398;
+    box-shadow: 0px 3px 0px 0px #316398;
 }
 .box-hover {
     transition: all 500ms ease-in-out;
@@ -711,7 +711,7 @@ ul.social-buttons li:last-child {
     text-align: center;
 }
 .social-btn:hover, .social-btn:focus {
-    background: #3dc9b3;
+    background: #316398;
     color: #fff;
 }
 .contact-details {
@@ -722,7 +722,7 @@ ul.social-buttons li:last-child {
 }
 .contact-details h2 span {
     display: block;
-    color: #3dc9b3;
+    color: #316398;
     text-transform: uppercase;
     letter-spacing: 1px;
     font-size: 14px;
@@ -736,7 +736,7 @@ ul.social-buttons li:last-child {
     width: 175px;
     line-height: 175px;
     max-width: 100%;
-    background: #3dc9b3;
+    background: #316398;
     border-radius: 50%;
     -o-border-radius: 50%;
     -moz-border-radius: 50%;
